@@ -1,2 +1,2 @@
-# Python-Project-2
+# Python-Project-1
 opencv and image processing 
